@@ -1,0 +1,35 @@
+{
+    "name": "tankodrom",
+    "description": "Yandex.Tank automatization tools",
+    "keywords": "yandex-tank, tank, load testing",
+    "version": "0.0.1",
+    "homepage": "https://github.com/banzalik/tankodrom",
+    "author": "Aleksandr Boichenko <banzalik@gmail.com> (http://github.com/banzalik)",
+    "maintainers": [
+    ],
+    "contributors": [
+    ],
+    "bin": {
+    },
+    "bugs": {
+        "url": "https://github.com/banzalik/tankodrom/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/banzalik/tankodrom.git"
+    },
+    "dependencies": {
+    },
+    "files": [
+    ],
+    "engines": {
+        "node": ">= 0.6.0"
+    },
+    "licenses": [
+        {
+            "type": "GNU GENERAL PUBLIC LICENSE V2",
+            "url": "https://raw.github.com/banzalik/tankodrom/master/LICENSE"
+        }
+    ],
+    "optionalDependencies": {}
+}
